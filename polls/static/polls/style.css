@@ -1,3 +1,15 @@
 li a {
     color: green;
 }
+
+body {
+    background: white url("images/background.gif") no-repeat;
+}
+
+label {
+    color: white;
+}
+
+h1 {
+    color: white;
+}
